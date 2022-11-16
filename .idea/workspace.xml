@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0fcd47d-879a-4611-9586-674288c00a61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/people/CollegeStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/people/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/people/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/people/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/keyin/people/PersonsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/keyin/shapes/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/keyin/shapes/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/keyin/shapes/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/keyin/shapes/SquareTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0fcd47d-879a-4611-9586-674288c00a61" name="Changes" comment="Adding entirety of program to github." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,6 +121,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668448444178</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding entirety of program to github.">
+      <created>1668565797550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668565797550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +141,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding entirety of program to github." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding entirety of program to github." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
